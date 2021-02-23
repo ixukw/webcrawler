@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Web Crawler
+This project is a second version of a filecrawler I wrote. The goal will be to input a URL and crawl the website for links and construct a graph of the connections.
+
+As of this commit, I am unsure how to deal with complex websites created with, for example, React or Vue that do not have simple hrefs.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
